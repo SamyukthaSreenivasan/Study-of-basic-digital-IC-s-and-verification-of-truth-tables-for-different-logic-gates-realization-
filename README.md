@@ -76,13 +76,19 @@ xnor(yxnor,a,b);
 endmodule
 ```
 RTL Diagram:
+
 ![image](https://github.com/SamyukthaSreenivasan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475703/90139413-9de5-4310-88a7-7446f76489c5)
 
+
 Truth Table:
+
 ![image](https://github.com/SamyukthaSreenivasan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475703/79e093f3-d6f6-454a-9960-ac8e07aa7596)
 
+
 Output Waveform:
+
 ![image](https://github.com/SamyukthaSreenivasan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119475703/86f4ae28-eadb-4f99-bf64-422414ff03d5)
 
 Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
